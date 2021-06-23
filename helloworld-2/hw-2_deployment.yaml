@@ -19,7 +19,7 @@ spec:
         - containerPort: 80
         env:
         - name: TITLE
-          value: "Hello World 2! :)"
+          value: "Hello World two! :)"
 ---
 apiVersion: v1
 kind: Service
